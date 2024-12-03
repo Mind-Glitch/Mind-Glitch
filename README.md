@@ -1,8 +1,14 @@
 # Hello
 
+<img src="/H1.png" width="400" />
+
 # Guys
 
+<img src="/H2.png" width="400"/>
+
 (it's me on av btw)
+
+# BIO :
 
 Mainly, I am a full-stack web developer on <a href="https://dotnet.microsoft.com/en-us/learn/aspnet/what-is-aspnet-core#:~:text=ASP.NET%20Core%20is%20the%20modern%2C%20high-performance%20web%20development,for%20building%20web%20apps%20on%20the%20.NET%20platform.">ASP.NET Core </a> <a href="https://learn.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-9.0&tabs=visual-studio">RazorPages<a> + <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor#:~:text=Blazor%20is%20a%20modern%20front-end%20web%20framework%20based,so%20that%20you%20can%20deliver%20great%20web%20experiences.">Blazor</a> / <a href="https://react.dev/">React</a><br/>
 
@@ -10,6 +16,8 @@ Mainly, I am a full-stack web developer on <a href="https://dotnet.microsoft.com
 Russian - Native <br/>
 English - B1 (B1 - B2 not sure) <br/>
 Japanese N5 (_ - N5 not sure)
+
+<br/><br/>
 
 # My stack:
 
