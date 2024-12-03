@@ -25,7 +25,7 @@ Japanese N5 (_ - N5 not sure)
 
 
 ### Systems I work on:
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &ensp;  
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &ensp; 
 I use Arch btw ( And debian on VPS ).<br/>
 
 <a href="https://microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/windows.svg" alt="dotnet" height="40"/> </a> &ensp; 
