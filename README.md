@@ -1,10 +1,10 @@
 # Hello
 
-<img src="/H1.png" width="400" />
+<img src="/H1.png" width="650" />
 
 # Guys
 
-<img src="/H2.png" width="400"/>
+<img src="/H2.png" width="650"/>
 
 (it's me on av btw)
 
