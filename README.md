@@ -11,8 +11,6 @@
 
 <h3>Hice to meet ya</h3>
 
-<h6> (it's me on profile pic btw) </h6>
-
 <br/>
 
 # BIO :
