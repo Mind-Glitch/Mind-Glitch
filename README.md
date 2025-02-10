@@ -9,7 +9,7 @@
 
 <img src="/H2.png" width="650"/>
 
-<h3>Hice to meet ya</h3>
+<h3>Nice to meet ya</h3>
 
 <br/>
 
